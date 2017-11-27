@@ -1,7 +1,7 @@
 # JAVA
 # First Java code
 import javax.swing.JOptionPane; 
-public class javaweek2
+public class javapay
 {
 	public static void main (String[]args)
 	{ double pay= 0;
